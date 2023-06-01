@@ -1,0 +1,27 @@
+{
+  "name": "nvim-snippets",
+  "author": "authorname",
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./python.json"
+      },
+      {
+        "language": "vue",
+        "path": "./vue.json"
+      },
+      {
+        "language": "cpp",
+        "path": "./cpp.json"
+      },
+      {
+        "language": "lua",
+        "path": "./lua.json"
+      }
+    ]
+  }
+}
