@@ -147,17 +147,6 @@
 			<key>url</key>
 			<string>https://translate.google.com/?sl=auto&amp;tl=fr&amp;text={query}&amp;op=translate</string>
 		</dict>
-		<key>EDEF24BA-159C-4090-9D53-0D51C5EF2C85</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>ml</string>
-			<key>text</key>
-			<string>Search MATLAB Documentation for '{query}'</string>
-			<key>url</key>
-			<string>https%3A%2F%2Fww2.mathworks.cn%2Fhelp%2Fmatlab%2Fref%2F{query}.html</string>
-		</dict>
 		<key>EEBDA64B-D12B-4A7D-85F7-273AB9956A51</key>
 		<dict>
 			<key>enabled</key>
@@ -178,7 +167,7 @@
 			<key>text</key>
 			<string>Search Iconfont for '{query}'</string>
 			<key>url</key>
-			<string>https%3A%2F%2Fwww.iconfont.cn%2Fsearch%2Findex%3FsearchType%3Dicon%26q%3D{query}</string>
+			<string>https://www.iconfont.cn/search/index?searchType=icon&amp;q={query}</string>
 		</dict>
 		<key>FFD59A79-AA21-4CC7-9D68-91642FA13E81</key>
 		<dict>
