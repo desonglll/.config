@@ -26,6 +26,17 @@
 			<key>url</key>
 			<string>https://github.com/search?q={query}&amp;type=repositories</string>
 		</dict>
+		<key>24A80B55-56E4-4758-A212-395BB26D4FEF</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>t</string>
+			<key>text</key>
+			<string>Translate "{query}" from Auto to English</string>
+			<key>url</key>
+			<string>https://translate.google.com/?sl=auto&amp;tl=en&amp;text={query}&amp;op=translate</string>
+		</dict>
 		<key>2A9A12F7-DF75-4CD5-8FF1-49BD6FAB9A3C</key>
 		<dict>
 			<key>enabled</key>
@@ -36,6 +47,17 @@
 			<string>在京东搜索“{query}”</string>
 			<key>url</key>
 			<string>https%3A%2F%2Fsearch.jd.com%2FSearch%3Fkeyword%3D{query}%26enc%3Dutf-8%26wq%3Dha li bo te%26pvid%3D418ffdec41ed427ea4df98225fd10776</string>
+		</dict>
+		<key>36804B33-CC5B-40B6-96D1-6FBF54B00B15</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>tec</string>
+			<key>text</key>
+			<string>Translate "{query}" from English to Chinese</string>
+			<key>url</key>
+			<string>https://translate.google.com/?sl=en&amp;tl=zh-CN&amp;text={query}&amp;op=translate</string>
 		</dict>
 		<key>3E1BD363-D569-436F-8208-021675A7C26A</key>
 		<dict>
@@ -92,6 +114,17 @@
 			<key>url</key>
 			<string>http://xueshu.baidu.com/s?wd={query}</string>
 		</dict>
+		<key>D1715222-7C58-408C-8BE1-45C79E199B39</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>t</string>
+			<key>text</key>
+			<string>Translate "{query}" from Auto to Chinese</string>
+			<key>url</key>
+			<string>https://translate.google.com/?sl=auto&amp;tl=zh-CN&amp;text={query}&amp;op=translate</string>
+		</dict>
 		<key>DA75797C-605C-49E7-B81C-83A5EDC1D965</key>
 		<dict>
 			<key>enabled</key>
@@ -102,6 +135,17 @@
 			<string>使用百度百科搜索“{query}”</string>
 			<key>url</key>
 			<string>https://baike.baidu.com/item/{query}</string>
+		</dict>
+		<key>E1BBAE37-40C2-45B1-8255-1A1568008483</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>t</string>
+			<key>text</key>
+			<string>Translate "{query}" from Auto to French</string>
+			<key>url</key>
+			<string>https://translate.google.com/?sl=auto&amp;tl=fr&amp;text={query}&amp;op=translate</string>
 		</dict>
 		<key>EDEF24BA-159C-4090-9D53-0D51C5EF2C85</key>
 		<dict>
@@ -135,6 +179,17 @@
 			<string>Search Iconfont for '{query}'</string>
 			<key>url</key>
 			<string>https%3A%2F%2Fwww.iconfont.cn%2Fsearch%2Findex%3FsearchType%3Dicon%26q%3D{query}</string>
+		</dict>
+		<key>FFD59A79-AA21-4CC7-9D68-91642FA13E81</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>tce</string>
+			<key>text</key>
+			<string>Translate "{query}" from Chinese to English</string>
+			<key>url</key>
+			<string>https://translate.google.com/?sl=zh-CN&amp;tl=en&amp;text={query}&amp;op=translate</string>
 		</dict>
 	</dict>
 </dict>

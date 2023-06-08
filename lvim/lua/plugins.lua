@@ -1,6 +1,9 @@
 -- -- Additional Plugins <https://www.lunarvim.org/docs/plugins#user-plugins>
 lvim.plugins = {
   {
+    "mg979/vim-visual-multi"
+  },
+  {
     "folke/trouble.nvim",
     cmd = "TroubleToggle",
   },
@@ -13,7 +16,6 @@ lvim.plugins = {
       require("hop").setup()
       vim.api.nvim_set_keymap("n", "w", ":HopChar2<cr>", { silent = true })
       vim.api.nvim_set_keymap("n", "W", ":HopWord<cr>", { silent = true })
-      vim.api.nvim_set_keymap("n", "g", ":HopWord<cr>", { silent = true })
     end,
   },
   {
