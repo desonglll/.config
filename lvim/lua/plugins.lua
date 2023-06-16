@@ -1,6 +1,9 @@
 -- -- Additional Plugins <https://www.lunarvim.org/docs/plugins#user-plugins>
 lvim.plugins = {
   {
+    "lervag/vimtex"
+  },
+  {
     "mg979/vim-visual-multi"
   },
   {

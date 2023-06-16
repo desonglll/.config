@@ -70,6 +70,17 @@
 			<key>url</key>
 			<string>https://search.bilibili.com/all?keyword={query}</string>
 		</dict>
+		<key>4AC87363-F79F-40BE-91F0-1D9A69403C0D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>github</string>
+			<key>text</key>
+			<string>github</string>
+			<key>url</key>
+			<string>https://github.com/</string>
+		</dict>
 		<key>76BDE572-8B54-4F95-924F-4D2BD10D11C0</key>
 		<dict>
 			<key>enabled</key>
