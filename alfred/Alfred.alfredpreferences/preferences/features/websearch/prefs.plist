@@ -4,17 +4,6 @@
 <dict>
 	<key>customSites</key>
 	<dict>
-		<key>1AFDB36E-4EF7-4DAC-A99E-3A31107D4B7D</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>gs</string>
-			<key>text</key>
-			<string>Search Google Scholar for '{query}'</string>
-			<key>url</key>
-			<string>https%3A%2F%2Fscholar.google.com%2Fscholar%3Fhl%3Dzh-CN%26as_sdt%3D0%2C5%26q%3D{query}%26btnG%3D</string>
-		</dict>
 		<key>1C136C19-D9C9-4906-997A-67DBBEB199E6</key>
 		<dict>
 			<key>enabled</key>
@@ -36,17 +25,6 @@
 			<string>Translate "{query}" from Auto to English</string>
 			<key>url</key>
 			<string>https://translate.google.com/?sl=auto&amp;tl=en&amp;text={query}&amp;op=translate</string>
-		</dict>
-		<key>2A9A12F7-DF75-4CD5-8FF1-49BD6FAB9A3C</key>
-		<dict>
-			<key>enabled</key>
-			<true/>
-			<key>keyword</key>
-			<string>jd</string>
-			<key>text</key>
-			<string>在京东搜索“{query}”</string>
-			<key>url</key>
-			<string>https%3A%2F%2Fsearch.jd.com%2FSearch%3Fkeyword%3D{query}%26enc%3Dutf-8%26wq%3Dha li bo te%26pvid%3D418ffdec41ed427ea4df98225fd10776</string>
 		</dict>
 		<key>36804B33-CC5B-40B6-96D1-6FBF54B00B15</key>
 		<dict>
@@ -114,16 +92,16 @@
 			<key>url</key>
 			<string>https%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3D{query}</string>
 		</dict>
-		<key>B318445B-7700-4A25-835B-24F5AB579146</key>
+		<key>C41384AF-02D4-4D97-B0C1-EE33C08DEEAC</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>bs</string>
+			<string>zimu</string>
 			<key>text</key>
-			<string>使用百度学术搜索“{query}”</string>
+			<string>字幕库搜索"{query}"</string>
 			<key>url</key>
-			<string>http://xueshu.baidu.com/s?wd={query}</string>
+			<string>https://so.zimuku.org/search?q={query}&amp;chost=zmk.pw</string>
 		</dict>
 		<key>D1715222-7C58-408C-8BE1-45C79E199B39</key>
 		<dict>
@@ -136,16 +114,16 @@
 			<key>url</key>
 			<string>https://translate.google.com/?sl=auto&amp;tl=zh-CN&amp;text={query}&amp;op=translate</string>
 		</dict>
-		<key>DA75797C-605C-49E7-B81C-83A5EDC1D965</key>
+		<key>D5373DA6-B9BC-48DA-A85C-207905B2B673</key>
 		<dict>
 			<key>enabled</key>
 			<true/>
 			<key>keyword</key>
-			<string>bk</string>
+			<string>chat</string>
 			<key>text</key>
-			<string>使用百度百科搜索“{query}”</string>
+			<string>ChatGPT</string>
 			<key>url</key>
-			<string>https://baike.baidu.com/item/{query}</string>
+			<string>https://chat.wuguokai.cn/</string>
 		</dict>
 		<key>E1BBAE37-40C2-45B1-8255-1A1568008483</key>
 		<dict>
