@@ -1,6 +1,11 @@
 -- -- Additional Plugins <https://www.lunarvim.org/docs/plugins#user-plugins>
 lvim.plugins = {
   {
+      'kaarmu/typst.vim',
+  ft = 'typst',
+  lazy=false,
+  },
+  {
     "lervag/vimtex"
   },
   {
